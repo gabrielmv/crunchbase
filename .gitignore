@@ -4,4 +4,4 @@ __pycache__
 secrets.json
 *.parquet
 *.pdf
-
+airflow/logs/*
